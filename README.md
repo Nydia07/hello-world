@@ -1,2 +1,6 @@
 # hello-world
-first code
+
+Hello future！
+
+I will try my best to finish all the course!
+Wait for me!
